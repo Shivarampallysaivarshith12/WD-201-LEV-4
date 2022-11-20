@@ -13,7 +13,7 @@
       "prettier --write ."
     ]
   },
-  "author": "",
+  "author": " Shivarampally Sai Varshith <shivarampallysaivarshith@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.27.0",
